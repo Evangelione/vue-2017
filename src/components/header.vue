@@ -1,5 +1,11 @@
 <template>
   <header class="header">
-    <h1 class="logo">Vue Demo by FungLeo</h1>
+    <div class="nav"></div>
   </header>
 </template>
+<style>
+  .nav {
+    width: 100%;
+    height: 60px;
+  }
+</style>
